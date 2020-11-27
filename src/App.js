@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Это ветка Мастер! Мы деплоимся в Хероку! Ура!
+          Its branch Test Github! I created new branch and change header! Ура!
         </p>
         <p>
           Редактируйте <code>src/App.js</code> и сохраните для обновления!
